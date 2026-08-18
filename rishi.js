@@ -1,2 +1,2 @@
 This is my commit number 6
-thanks for understanding
+This is my 7th commit
